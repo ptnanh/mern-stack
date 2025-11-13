@@ -1,0 +1,1 @@
+import { WrapperTypeProduct } from "./style";
